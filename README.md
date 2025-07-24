@@ -32,9 +32,9 @@ DarkCrawler allows you to:
 
 
 
-```markdown
 ## 📂 Project Structure
 
+```
 project/
 ├── data/                      # Saved HTML pages
 ├── onion\_seeds.txt            # Input file with seed .onion URLs
