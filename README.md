@@ -44,7 +44,6 @@ project/
 ├── util/                  # OnionLinkLogger.java
 └── tor/                   # TorManager.java
 ```
-````
 
 ---
 
@@ -59,7 +58,7 @@ project/
 ## 🛠️ Build and Run
 
 ### 1. Clone the repo
-
+````
 ```bash
 git clone https://github.com/yourusername/darkcrawler.git
 cd darkcrawler
