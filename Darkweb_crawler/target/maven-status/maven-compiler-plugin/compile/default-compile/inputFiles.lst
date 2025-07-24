@@ -1,0 +1,13 @@
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/tor/TorManager.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/crawler/CrawlerEngine.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/scheduler/CrawlScheduler.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/utils/OnionLinkLogger.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/config/ConfigLoader.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/engine/CrawlLauncher.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/core/CrawlerEngine.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/storage/DataStorage.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/utils/LoggerUtil.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/Main.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/http/TorHttpClient.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/http/TorHttpFetcher.java
+/home/kali/Desktop/project/src/main/java/com/crawlx/darkcrawler/parser/PageParser.java

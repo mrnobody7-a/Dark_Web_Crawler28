@@ -1,0 +1,6 @@
+com/crawlx/darkcrawler/storage/DataStorage.class
+com/crawlx/darkcrawler/tor/TorManager.class
+com/crawlx/darkcrawler/engine/CrawlLauncher.class
+com/crawlx/darkcrawler/crawler/CrawlerEngine.class
+com/crawlx/darkcrawler/core/CrawlerEngine.class
+com/crawlx/darkcrawler/util/OnionLinkLogger.class
