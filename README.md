@@ -1,13 +1,15 @@
-```markdown
+
 # 🌐 DarkCrawler - Tor Hidden Service Crawler
 
-DarkCrawler is a powerful and modular Java-based dark web crawler that uses the Tor network to fetch and recursively explore `.onion` sites. It supports multithreaded crawling, seed URL input, and HTML/data saving capabilities — perfect for dark web researchers and cyber threat intelligence professionals.
+DarkCrawler is a powerful and modular Java-based dark web crawler that uses the Tor network to fetch and recursively explore `.onion` sites. 
+It supports multithreaded crawling, seed URL input, and HTML/data saving capabilities — perfect for dark web researchers and cyber threat intelligence professionals.
 
 ---
 
 ## 📖 About This Project
 
-This project is built for educational and research purposes to explore and understand how hidden services operate on the Tor network. It demonstrates how `.onion` websites can be programmatically discovered, parsed, and stored using Java, OkHttp, and Tor SOCKS5 proxies.
+This project is built for educational and research purposes to explore and understand how hidden services operate on the Tor network. 
+It demonstrates how `.onion` websites can be programmatically discovered, parsed, and stored using Java, OkHttp, and Tor SOCKS5 proxies.
 
 DarkCrawler allows you to:
 
@@ -30,7 +32,6 @@ DarkCrawler allows you to:
 
 
 
-```
 ```markdown
 ## 📂 Project Structure
 
@@ -58,7 +59,7 @@ project/
 ## 🛠️ Build and Run
 
 ### 1. Clone the repo
-````
+
 ```bash
 git clone https://github.com/yourusername/darkcrawler.git
 cd darkcrawler
