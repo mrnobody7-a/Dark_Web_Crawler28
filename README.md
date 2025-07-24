@@ -36,14 +36,14 @@ DarkCrawler allows you to:
 
 ```
 project/
-├── data/                      # Saved HTML pages
-├── onion\_seeds.txt            # Input file with seed .onion URLs
+├── data/                                                          # Saved HTML pages
+├── onion\_seeds.txt                                               # Input file with seed .onion URLs
 └── src/main/java/com/crawlx/darkcrawler/
-├── core/                  # CrawlerEngine.java
-├── engine/                # CrawlLauncher.java (entry point)
-├── storage/               # DataStorage.java
-├── util/                  # OnionLinkLogger.java
-└── tor/                   # TorManager.java
+                                        ├── core/                  # CrawlerEngine.java
+                                        ├── engine/                # CrawlLauncher.java (entry point)
+                                        ├── storage/               # DataStorage.java
+                                        ├── util/                  # OnionLinkLogger.java
+                                        └── tor/                   # TorManager.java
 ```
 
 ---
